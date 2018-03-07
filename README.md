@@ -1,2 +1,1 @@
-# practice
-# HDR-Reconstruction-
+# HDR-Reconstruction
